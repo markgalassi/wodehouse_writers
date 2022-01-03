@@ -1,7 +1,7 @@
 # wodehouse_writers
 
 This repository is an experiment in creating a different type of
-P.G. Wodehouse fan fiction.
+P.G. Wodehouse fan fiction: "indirect fan fiction".
 
 We should not try to write stories of Jeeves and Bertie and Blandings
 Castle (these efforts are doomed for failure).

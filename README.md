@@ -22,9 +22,12 @@ The effort has three parts that I can think of at this time.
 
    - Rosie M. Banks
      - Only a Factory Girl
-     - Mervin Keene, Clubman
+     - Mervyn Keene, Clubman
      - All for Love
      - A red, Red Summer Rose
+     - The Woman Who Braved All
+     - By Honor Bound
+     - A kiss at Twilight
      - 
    - Felix Clovelly
      - Gridley Quayle Investigator - The Adventure of the Maharaja's Ruby
@@ -36,6 +39,13 @@ The effort has three parts that I can think of at this time.
      - The Secret Nine
    - Whiffle
      - On the Care of the Pig
+   - Ralston McTodd
+   - Reginald Sprockett
+   - Eileen Peevey
+   - Vladimir Brusiloff
+   - Evangeline Pembury
+   - Horatio Slingsby, author of Strychnine in the Soup
+   - author of The Missing Toe
 
    See the document research/README.md for how we elaborate on this to
    create a solid background that can inform the books.

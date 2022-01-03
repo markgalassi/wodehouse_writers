@@ -23,10 +23,14 @@ The effort has three parts that I can think of at this time.
    - Rosie M. Banks
      - Only a Factory Girl
      - Mervin Keene, Clubman
+     - All for Love
+     - A red, Red Summer Rose
+     - 
    - Felix Clovelly
-     - Gridley Quayle Investigator: The Adventure of the Maharaja's Ruby
-     - Gridley Quayle Investigator: The Adventure of the Secret Six
-     - Gridley Quayle Investigator: The Adventure of the Wand of Death
+     - Gridley Quayle Investigator - The Adventure of the Maharaja's Ruby
+     - Gridley Quayle Investigator - The Adventure of the Secret Six
+     - Gridley Quayle Investigator - The Adventure of the Blue Ruby
+     - Gridley Quayle Investigator - The Adventure of the Wand of Death
    - Leila J. Pinkney
    - James Rodman
      - The Secret Nine
@@ -53,13 +57,32 @@ you an go to the subdirectory ```Rosie_M_Banks```
 Within there we have a subdirectory for each title of hers.  For
 example, you can go to ```Rosie_M_Banks/Only_a_Factory_Girl```
 
+You can now contribute in two ways.
+
+### Collecting information
+
+One is to help flesh out a summary using Wodehouse's original
+material.  We should identify every mention of the writer and of the
+book, from original Wodehouse source material, and collect it.
+
+We can also collect auxiliary material from other sources, and trivia.
+
+This should all be put in a file called ```background.md```
+
+An example of this can be found in
+```Rosie_M_Banks/Only_a_Factory_Girl/background.md```
+
+### Writing the book
+
+The other is to actually write the book.
+
 Within that directory you can create a file called
-```Only_a_Factory_girl__by__Taylor_Manfrenjuhnsuhn``` (if your name is
-Taylor Manfrenjuhnsuhn - otherwise use your name).  Putting the file
-name in that canonical form, with ```TITLE__by__FIRSTNAME_LASTNAME```
-is important, since it allows scripts to process all files.  And use
-underscores where there might otherwise be spaces: there should be no
-spaces in file names.
+```Only_a_Factory_girl__by__Taylor_Manfrenjuhnsuhn.md``` (if your name
+is Taylor Manfrenjuhnsuhn - otherwise use your name).  Putting the
+file name in that canonical form, with
+```TITLE__by__FIRSTNAME_LASTNAME.md``` is important, since it allows
+scripts to process all files.  And use underscores where there might
+otherwise be spaces: there should be no spaces in file names.
 
 Each contributor should create a document which is almost entirely
 ASCII text, with at most the very simple structure provided by
@@ -79,8 +102,8 @@ The steps are, therefore:
 
 2. Clone your own forked repository of wodehouse_writers.
 
-3. Edit your changes and use git to commit and push back to your
-   repository on github.
+3. Edit the appropriate file with your changes and use git to commit
+   and push back to your repository on github.
 
-4. Submit a merge request so that your work can get back into the main
+4. Submit a pull request so that your work can get back into the main
    repository.

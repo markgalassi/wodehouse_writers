@@ -44,8 +44,11 @@ The effort has three parts that I can think of at this time.
    - Eileen Peevey
    - Vladimir Brusiloff
    - Evangeline Pembury
+   - Pomona Grindle
    - Horatio Slingsby, author of Strychnine in the Soup
    - author of The Missing Toe
+   - author of By Order of the Czar
+   - author of Myster of a Hansom Cab
 
    See the document research/README.md for how we elaborate on this to
    create a solid background that can inform the books.

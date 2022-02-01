@@ -39,6 +39,8 @@ The effort has three parts that I can think of at this time.
      - The Secret Nine
    - Whiffle
      - On the Care of the Pig
+   - Lady Florence Craye
+     - Spindrift (also made into a play)
    - Ralston McTodd
    - Reginald Sprockett
    - Eileen Peevey

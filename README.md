@@ -92,7 +92,7 @@ An example of this can be found in
 The other is to actually write the book.
 
 Within that directory you can create a file called
-```Only_a_Factory_girl__by__Taylor_Manfrenjuhnsuhn.md``` (if your name
+```Only_a_Factory_Girl__by__Taylor_Manfrenjuhnsuhn.md``` (if your name
 is Taylor Manfrenjuhnsuhn - otherwise use your name).  Putting the
 file name in that canonical form, with
 ```TITLE__by__FIRSTNAME_LASTNAME.md``` is important, since it allows

@@ -41,6 +41,12 @@ The effort has three parts that I can think of at this time.
      - On the Care of the Pig
    - Lady Florence Craye
      - Spindrift (also made into a play)
+   - Rex West (pseudonym of Percy Gorringe)
+     - The Mystery of the Pink Crayfish
+     - Murder in Mauve
+     - The Case of the Poisoned Doughnuet
+     - Inspecter Biffen Views the Body
+     - Blood Will Tell
    - Ralston McTodd
    - Reginald Sprockett
    - Eileen Peevey
